@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.20)  23 JUN 2023 22:20
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.20)  23 JUN 2023 23:05
  restricted system commands enabled.
 **"Curso de Algoritmia.tex"
 ("./Curso de Algoritmia.tex"
@@ -42,8 +42,8 @@ ing layer <2023-01-16>
 Inserting `tracingstacklevels' in `input_level_string'.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /home/jakku/.texlive2022/texmf
 -var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \c@part=\count183
@@ -632,12 +632,12 @@ e
 * \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -648,40 +648,39 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 40.
+(Font)              <14.4> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 40.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 40.
+(Font)              <7> on input line 40.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 85.
-
-("./Curso de Algoritmia.aux"
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 41.
+ [2] [3] [4] [5] [6]
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+[22] [23] [24] [25] [26] [27] [28] [29] [30] ("./Curso de Algoritmia.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ))
 
 Here is how much of LuaTeX's memory you used:
- 14590 strings out of 478382
+ 14592 strings out of 478382
  100000,1977958 words of node,token memory allocated
  486 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 56 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:133,3:59,4:18,5:276,6:16,7:8278,8:1,9:106,10:9,11:1070
- 34171 multiletter control sequences out of 65536+600000
- 31 fonts using 2135503 bytes
- 83i,6n,77p,1314b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
-mf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman1
-2-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on Curso de Algoritmia.pdf (2 pages, 23055 bytes).
+   avail lists: 2:142,3:61,4:48,5:282,6:16,7:8306,8:2,9:124,10:29,11:1070
+ 34173 multiletter control sequences out of 65536+600000
+ 38 fonts using 2640311 bytes
+ 83i,6n,77p,1313b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/tex
+mf/fonts/opentype/public/lm/lmroman12-bold.otf>
+Output written on Curso de Algoritmia.pdf (30 pages, 22799 bytes).
 
-PDF statistics: 49 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+PDF statistics: 115 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
