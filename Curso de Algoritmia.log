@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.20)  23 JUN 2023 14:25
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2023.6.20)  23 JUN 2023 22:20
  restricted system commands enabled.
 **"Curso de Algoritmia.tex"
 ("./Curso de Algoritmia.tex"
@@ -657,7 +657,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 66.
+e 85.
 
 ("./Curso de Algoritmia.aux"
 LaTeX Info: Redefining \. on input line 8.
@@ -670,7 +670,7 @@ Here is how much of LuaTeX's memory you used:
  486 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 56 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:116,3:35,4:18,5:152,6:12,7:4074,8:1,9:70,10:9,11:506
+   avail lists: 2:133,3:59,4:18,5:276,6:16,7:8278,8:1,9:106,10:9,11:1070
  34171 multiletter control sequences out of 65536+600000
  31 fonts using 2135503 bytes
  83i,6n,77p,1314b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -678,7 +678,7 @@ Here is how much of LuaTeX's memory you used:
 mf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman1
 2-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on Curso de Algoritmia.pdf (2 pages, 20870 bytes).
+Output written on Curso de Algoritmia.pdf (2 pages, 23055 bytes).
 
 PDF statistics: 49 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream

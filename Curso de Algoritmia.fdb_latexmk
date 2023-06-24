@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1687544715 "Curso de Algoritmia.tex" "Curso de Algoritmia.pdf" "Curso de Algoritmia" 1687544716 0
+["lualatex"] 1687573214 "Curso de Algoritmia.tex" "Curso de Algoritmia.pdf" "Curso de Algoritmia" 1687573216 0
   "/home/jakku/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1687542822 128392 5ccdcd80529671c517f74edd952aa156 ""
   "/home/jakku/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1687539667 127309 2c3a7c325c755353a32b5f3d0c56cb88 ""
   "/home/jakku/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc" 1687541178 128281 9d287a5267ef7e46310d2a20eb9d5ccd ""
@@ -168,8 +168,8 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1687270683 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1687270686 5130 283c851c53337c76b09c0efe8fd29e7a ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1687270706 11887346 27d3ad93e6e452bf2a2f643001a4ef34 ""
-  "Curso de Algoritmia.aux" 1687544716 2075 54ddb4f440039f8c0d3fc9ad07e8dc40 "lualatex"
-  "Curso de Algoritmia.tex" 1687544710 2740 56a4d992f432c71ebbf740931f56debe ""
+  "Curso de Algoritmia.aux" 1687573215 4033 39704ab6dbddfcd8c6532fbbb34d4279 "lualatex"
+  "Curso de Algoritmia.tex" 1687573212 4734 858e8f0c2a9fcdaa596e54bb510fe670 ""
   (generated)
   "Curso de Algoritmia.aux"
   "Curso de Algoritmia.log"
