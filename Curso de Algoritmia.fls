@@ -1,4 +1,4 @@
-PWD /home/jakku/Documentos/algoritmia-ll
+PWD /home/jakku/Escritorio/algoritmia-ll
 INPUT /var/lib/texmf/web2c/luahbtex/lualatex.fmt
 INPUT ./Curso de Algoritmia.tex
 OUTPUT Curso de Algoritmia.log
